@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <router-link to="/vue-page-test/sub">go to SUB</router-link>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
